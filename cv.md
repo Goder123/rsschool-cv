@@ -35,4 +35,3 @@ return a * b
 # English
 **A2**(I learned English on youtube channel "English galaxy". Step by step I wanna become better.Passed the test from Epam...)
 
-
